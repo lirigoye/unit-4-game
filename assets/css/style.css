@@ -1,0 +1,64 @@
+body {
+    background: "https://cdn.pixabay.com/photo/2015/09/13/18/23/quatrefoil-938535_960_720.jpg";
+    background-size: cover;
+    overflow: auto;   
+}
+
+.header {
+    color: white;
+}
+
+h1 {
+    background-color:orange;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 315px;
+    height: 50px;
+    text-align: left;
+}
+
+.container-body {
+    color: green;
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 425px;
+    height: 400px;
+    text-align: left;
+    
+}
+
+.crystal-image {
+    width: 95px;
+    height: 100px;
+}
+
+.row-win {
+    color: black;
+    background-color: cyan;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 95px;
+    text-align: center;
+    
+    
+}
+
+.row-score {
+    color: white;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 325px;
+    text-align: left;
+    font-size: 40px;
+    
+}
+
+.current-number {
+    background-color: lightgreen;
+    color: purple;
+    height: 100px;
+    font-size: 40px;
+    
+
+}
+
+
+
